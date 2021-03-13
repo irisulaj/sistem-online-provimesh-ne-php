@@ -1,0 +1,35 @@
+@charset="UTF-8";
+
+
+.pull{
+  margin-left: 250px;
+}
+
+.color{
+	font-family: 'Montserrat', serif;
+	font-size: 20px;
+	color: white;
+	margin-top: 2px;
+}
+
+.linkname{
+	font-family: 'Montserrat', serif;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+ a:hover {
+  background-color: lightblue;
+  color: white;
+}
+
+.logotext{
+
+margin-right: 300px;
+		font-family: 'Montserrat', serif;
+	font-size: 25px;
+	color: white;
+}
+

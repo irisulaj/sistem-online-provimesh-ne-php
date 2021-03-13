@@ -1,0 +1,20 @@
+@charset="utf-8"
+
+.footer-description{
+    display:flex;
+    width:100%;
+}
+
+.description{
+    width:100%;
+}
+.image-container{
+    width:50px;
+}
+.align{
+	margin-top: 222px;
+}
+
+a:hover{
+	background-color: lightblue;
+}

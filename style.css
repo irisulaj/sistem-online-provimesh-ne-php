@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+.center1{
+	width: 400px;
+	margin: auto;
+	
+}
+
+.legend{
+	text-align: center;
+	color: green;
+}
+
+.div{
+  background:#000;
+ 
+}
+.pull-right{
+  float:right;
+}
